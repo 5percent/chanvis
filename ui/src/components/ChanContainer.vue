@@ -2837,7 +2837,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="less" scoped>
 .ChanContainer {
   height: calc(100vh - 20px);
 }

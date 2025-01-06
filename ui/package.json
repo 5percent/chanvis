@@ -12,15 +12,14 @@
     "vue": "~2.5.17"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.9.2",
-    "@vue/cli-plugin-eslint": "3.0.4",
-    "@vue/cli-service": "^3.9.3",
-    "babel-core": "6.26.3",
-    "babel-loader": "7.1.5",
-    "node-sass": "4.14.1",
-    "sass-loader": "~7.1.0",
+    "@vue/cli-plugin-babel": "^3.x",
+    "@vue/cli-plugin-eslint": "^3.x",
+    "@vue/cli-service": "^3.x",
+    "babel-core": "^6.26.x",
+    "babel-loader": "^7.1.x",
     "style-loader": "~0.23.1",
-    "vue-template-compiler": "~2.5.17"
+    "vue-template-compiler": "~2.5.17",
+    "less-loader": "^6.0.0"
   },
   "eslintConfig": {
     "root": true,
